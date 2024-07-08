@@ -1,0 +1,1001 @@
+﻿ID_2600,ID,subject,object,original_label
+1,1,Communication systems,IP networks,broader
+2,2,Communication systems,Telegraphy,broader
+3,3,Communication systems,Submillimeter wave communication,broader
+4,4,Communication systems,Molecular communication,broader
+5,5,Communication systems,MIMO communication,broader
+6,6,Communication systems,Digital communication,broader
+7,7,Communication systems,Communication system traffic,broader
+8,8,Communication systems,SIMO communication,broader
+9,9,Communication systems,Terahertz communications,broader
+10,10,Communication systems,Data buses,broader
+11,11,Communication systems,Broadband communication,broader
+12,12,Communication systems,Wide area networks,broader
+13,13,Communication systems,MISO communication,broader
+14,14,Communication systems,Cross layer design,broader
+15,15,Communication systems,Data communication,broader
+16,16,Communication systems,Computer networks,broader
+17,17,Communication systems,Teleprinting,broader
+18,18,Communication systems,Metropolitan area networks,broader
+19,19,Communication systems,Quality of experience,broader
+20,20,Communication systems,Facsimile,broader
+21,21,Communication systems,Routing,broader
+22,22,Communication systems,Narrowband,broader
+23,23,Communication systems,Communication networks,broader
+24,24,Communication systems,Communication system security,broader
+25,25,Communication systems,Local area networks,broader
+26,26,Communication systems,Internet,broader
+27,27,Communication systems,Military communication,broader
+28,28,Communication systems,Device-to-device communication,broader
+29,29,Communication systems,Personal communication networks,broader
+30,30,Communication systems,Visual communication,broader
+31,31,Communication systems,Low latency communication,broader
+32,32,Communication systems,Microwave communication,broader
+33,33,Communication systems,Communication system control,broader
+34,34,Communication systems,Synchronous digital hierarchy,broader
+35,35,Communication systems,Underwater communication,broader
+36,36,Communication systems,Satellite communication,broader
+37,37,Communication systems,Wireless mesh networks,broader
+38,38,Circuits,Digital circuits,broader
+39,39,Circuits,Coupling circuits,broader
+40,40,Circuits,Logic circuits,broader
+41,41,Circuits,Radiation detector circuits,broader
+42,42,Circuits,Silicon-on-insulator,broader
+43,43,Circuits,Application specific integrated circuits,broader
+44,44,Circuits,VHF circuits,broader
+45,45,Circuits,Sampled data circuits,broader
+46,46,Circuits,MOSFET circuits,broader
+47,47,Circuits,Circuit noise,broader
+48,48,Circuits,Millimeter wave circuits,broader
+49,49,Circuits,Monolithic integrated circuits,broader
+50,50,Circuits,Passive circuits,broader
+51,51,Circuits,Coprocessors,broader
+52,52,Circuits,Asynchronous circuits,broader
+53,53,Circuits,UHF circuits,broader
+54,54,Circuits,Millimeter wave integrated circuits,broader
+55,55,Circuits,Printed circuits,broader
+56,56,Circuits,Distributed parameter circuits,broader
+57,57,Circuits,Microprocessors,broader
+58,58,Circuits,Magnetic circuits,broader
+59,59,Circuits,Programmable logic devices,broader
+60,60,Circuits,Circuit simulation,broader
+61,61,Circuits,Switching circuits,broader
+62,62,Circuits,Adders,broader
+63,63,Circuits,Equivalent circuits,broader
+64,64,Circuits,Summing circuits,broader
+65,65,Circuits,Ultra large scale integration,broader
+66,66,Circuits,Programmable circuits,broader
+67,67,Circuits,Phase shifters,broader
+68,68,Circuits,Linear circuits,broader
+69,69,Circuits,Thin film circuits,broader
+70,70,Circuits,Bistable circuits,broader
+71,71,Circuits,Counting circuits,broader
+72,72,Circuits,Multiplying circuits,broader
+73,73,Circuits,Time varying circuits,broader
+74,74,Measurement,Wide area measurements,broader
+75,75,Measurement,Calorimetry,broader
+76,76,Measurement,Mechanical variables measurement,broader
+77,77,Measurement,Magnetic variables measurement,broader
+78,78,Measurement,Spectroscopy,broader
+79,79,Measurement,Doppler measurement,broader
+80,80,Measurement,Atomic measurements,broader
+81,81,Measurement,Geophysical measurements,broader
+82,82,Measurement,Geologic measurements,broader
+83,83,Measurement,Distortion measurement,broader
+84,84,Measurement,Anthropometry,broader
+85,85,Measurement,Accelerometers,broader
+86,86,Measurement,Optical variables measurement,broader
+87,87,Measurement,Key performance indicator,broader
+88,88,Measurement,Viscosity,broader
+89,89,Measurement,Moisture measurement,broader
+90,90,Measurement,Dosimetry,broader
+91,91,Measurement,Ultrasonic variables measurement,broader
+92,92,Measurement,Coordinate measuring machines,broader
+93,93,Measurement,Electromagnetic measurements,broader
+94,94,Measurement,Micrometers,broader
+95,95,Measurement,Particle measurements,broader
+96,96,Measurement,Loss measurement,broader
+97,97,Measurement,Wavelength measurement,broader
+98,98,Measurement,Gas chromatography,broader
+99,99,Measurement,Antenna measurements,broader
+100,100,Measurement,Extraterrestrial measurements,broader
+101,101,Measurement,Measurement by laser beam,broader
+102,102,Measurement,Pulse measurements,broader
+103,103,Measurement,Bathymetry,broader
+104,104,Measurement,Plasma measurements,broader
+105,105,Measurement,Software measurement,broader
+106,106,Mathematics,Lattices,broader
+107,107,Mathematics,Optimization,broader
+108,108,Mathematics,Nonlinear systems,broader
+109,109,Mathematics,Probability,broader
+110,110,Mathematics,Equations,broader
+111,111,Mathematics,Gradient methods,broader
+112,112,Mathematics,Harmonic analysis,broader
+113,113,Mathematics,Cyclic redundancy check,broader
+114,114,Mathematics,Sequences,broader
+115,115,Mathematics,Statistics,broader
+116,116,Mathematics,Minimization,broader
+117,117,Mathematics,Stochastic processes,broader
+118,118,Mathematics,Functional analysis,broader
+119,119,Mathematics,Graph theory,broader
+120,120,Mathematics,Dynamical systems,broader
+121,121,Mathematics,Eigenvalues and eigenfunctions,broader
+122,122,Mathematics,Taylor series,broader
+123,123,Mathematics,Root mean square,broader
+124,124,Mathematics,Simulated annealing,broader
+125,125,Mathematics,Random processes,broader
+126,126,Mathematics,Uncertain systems,broader
+127,127,Mathematics,Boundary value problems,broader
+128,128,Mathematics,Combinatorial mathematics,broader
+129,129,Mathematics,Iterative methods,broader
+130,130,Mathematics,Computational efficiency,broader
+131,131,Mathematics,Superposition calculus,broader
+132,132,Mathematics,Fourier series,broader
+133,133,Mathematics,Tensors,broader
+134,134,Mathematics,Closed-form solutions,broader
+135,135,Mathematics,Transmission line matrix methods,broader
+136,136,Mathematics,Quaternions,broader
+137,137,Mathematics,Mathematical models,broader
+138,138,Mathematics,Convergence,broader
+139,139,Chemical elements,Phosphorus,broader
+140,140,Chemical elements,Nitrogen,broader
+141,141,Chemical elements,Rhenium,broader
+142,142,Chemical elements,Arsenic,broader
+143,143,Chemical elements,Promethium,broader
+144,144,Chemical elements,Gadolinium,broader
+145,145,Chemical elements,Osmium,broader
+146,146,Chemical elements,Uranium,broader
+147,147,Chemical elements,Thulium,broader
+148,148,Chemical elements,Oxygen,broader
+149,149,Chemical elements,Iridium,broader
+150,150,Chemical elements,Ytterbium,broader
+151,151,Chemical elements,Isotopes,broader
+152,152,Chemical elements,Aluminum,broader
+153,153,Chemical elements,Lutetium,broader
+154,154,Chemical elements,Yttrium,broader
+155,155,Chemical elements,Molybdenum,broader
+156,156,Chemical elements,Titanium,broader
+157,157,Chemical elements,Tellurium,broader
+158,158,Chemical elements,Potassium,broader
+159,159,Chemical elements,Chlorine,broader
+160,160,Chemical elements,Cerium,broader
+161,161,Chemical elements,Plutonium,broader
+162,162,Chemical elements,Rhodium,broader
+163,163,Chemical elements,Zirconium,broader
+164,164,Chemical elements,Protactinium,broader
+165,165,Chemical elements,Cesium,broader
+166,166,Chemical elements,Terbium,broader
+167,167,Chemical elements,Fluorine,broader
+168,168,Chemical elements,Antimony,broader
+169,169,Chemical elements,Scandium,broader
+170,170,Chemical elements,Iodine,broader
+171,171,Materials,Crystals,broader
+172,172,Materials,Polymers,broader
+173,173,Materials,Fluids,broader
+174,174,Materials,Radioactive materials,broader
+175,175,Materials,Intelligent materials,broader
+176,176,Materials,Oils,broader
+177,177,Materials,Resins,broader
+178,178,Materials,Magnetic materials,broader
+179,179,Materials,Polymer foams,broader
+180,180,Materials,Surfactants,broader
+181,181,Materials,Inorganic materials,broader
+182,182,Materials,Building materials,broader
+183,183,Materials,Optical materials,broader
+184,184,Materials,Paper pulp,broader
+185,185,Materials,Smart materials,broader
+186,186,Materials,Photoconducting materials,broader
+187,187,Materials,Lacquers,broader
+188,188,Materials,Metal foam,broader
+189,189,Materials,Phase change materials,broader
+190,190,Materials,Auxetic materials,broader
+191,191,Materials,Laminates,broader
+192,192,Materials,Solids,broader
+193,193,Materials,Thermoelectric materials,broader
+194,194,Materials,Biomedical materials,broader
+195,195,Materials,Conducting materials,broader
+196,196,Materials,Organic materials,broader
+197,197,Control systems,Mechanical variables control,broader
+198,198,Control systems,Moisture control,broader
+199,199,Control systems,Gaze tracking,broader
+200,200,Control systems,Admittance control,broader
+201,201,Control systems,Sensorless control,broader
+202,202,Control systems,Thermal variables control,broader
+203,203,Control systems,Decentralized control,broader
+204,204,Control systems,Controllability,broader
+205,205,Control systems,Medical control systems,broader
+206,206,Control systems,Robot control,broader
+207,207,Control systems,Motion compensation,broader
+208,208,Control systems,Pneumatic systems,broader
+209,209,Control systems,Fault tolerant control,broader
+210,210,Control systems,Linear feedback control systems,broader
+211,211,Control systems,Nonlinear control systems,broader
+212,212,Control systems,SCADA systems,broader
+213,213,Control systems,Closed loop systems,broader
+214,214,Control systems,Digital control,broader
+215,215,Control systems,Open loop systems,broader
+216,216,Control systems,PI control,broader
+217,217,Control systems,Fluid flow control,broader
+218,218,Control systems,Proportional control,broader
+219,219,Control systems,Radio control,broader
+220,220,Control systems,Missile control,broader
+221,221,Control systems,PD control,broader
+222,222,Control systems,Delay systems,broader
+223,223,Management,Business continuity,broader
+224,224,Management,Process planning,broader
+225,225,Management,Content management,broader
+226,226,Management,Customer relationship management,broader
+227,227,Management,Dependability management,broader
+228,228,Management,Project management,broader
+229,229,Management,Security management,broader
+230,230,Management,Technology management,broader
+231,231,Management,Financial management,broader
+232,232,Management,Program management,broader
+233,233,Management,Communication system operations and management,broader
+234,234,Management,Production management,broader
+235,235,Management,Enterprise resource planning,broader
+236,236,Management,Building management systems,broader
+237,237,Management,Technical management,broader
+238,238,Management,Asset management,broader
+239,239,Management,Supply chain management,broader
+240,240,Management,Requirements management,broader
+241,241,Management,Interface management,broader
+242,242,Management,Conference management,broader
+243,243,Signal processing,Filters,broader
+244,244,Signal processing,Signal resolution,broader
+245,245,Signal processing,Modulation,broader
+246,246,Signal processing,Array signal processing,broader
+247,247,Signal processing,Limiting,broader
+248,248,Signal processing,Signal analysis,broader
+249,249,Signal processing,Tracking loops,broader
+250,250,Signal processing,Noise,broader
+801,251,Multiaccess communication,Communication systems,narrower
+802,252,Mobile communication,Communication systems,narrower
+803,253,Wireless communication,Communication systems,narrower
+804,254,Multimedia communication,Communication systems,narrower
+805,255,Biomedical communication,Communication systems,narrower
+806,256,Communication system software,Communication systems,narrower
+807,257,Token networks,Communication systems,narrower
+808,258,Regional area networks,Communication systems,narrower
+809,259,Nanocommunication,Communication systems,narrower
+810,260,Videophone systems,Communication systems,narrower
+811,261,Multicast communication,Communication systems,narrower
+812,262,Machine-to-machine communications,Communication systems,narrower
+813,263,ARPANET,Communication systems,narrower
+814,264,Radio communication,Communication systems,narrower
+815,265,SISO communication,Communication systems,narrower
+816,266,Optical fiber communication,Communication systems,narrower
+817,267,Teleconferencing,Communication systems,narrower
+818,268,Wireless sensor networks,Communication systems,narrower
+819,269,Quantum communication,Communication systems,narrower
+820,270,Magnetic communication,Communication systems,narrower
+821,271,Satellite ground stations,Communication systems,narrower
+822,272,Communication system traffic control,Communication systems,narrower
+823,273,UHF communication,Communication systems,narrower
+824,274,Vehicle-to-everything,Communication systems,narrower
+825,275,Indoor communication,Communication systems,narrower
+826,276,Teletext,Communication systems,narrower
+827,277,Telephony,Communication systems,narrower
+828,278,Communication system signaling,Communication systems,narrower
+829,279,Subscriber loops,Communication systems,narrower
+830,280,Switching systems,Communication systems,narrower
+831,281,Videotex,Communication systems,narrower
+832,282,Spatial diversity,Communication systems,narrower
+833,283,Wideband,Communication systems,narrower
+834,284,Duplex communication systems,Communication systems,narrower
+835,285,Video conferencing,Communication systems,narrower
+836,286,Integrated circuits,Circuits,narrower
+837,287,Power integrated circuits,Circuits,narrower
+838,288,Bridge circuits,Circuits,narrower
+839,289,RLC circuits,Circuits,narrower
+840,290,Voltage multipliers,Circuits,narrower
+841,291,Circuit analysis,Circuits,narrower
+842,292,Charge pumps,Circuits,narrower
+843,293,Electronic circuits,Circuits,narrower
+844,294,Active circuits,Circuits,narrower
+845,295,Hybrid integrated circuits,Circuits,narrower
+846,296,Rectifiers,Circuits,narrower
+847,297,Analog circuits,Circuits,narrower
+848,298,Circuit synthesis,Circuits,narrower
+849,299,Neural circuits,Circuits,narrower
+850,300,Switched circuits,Circuits,narrower
+851,301,Wafer scale integration,Circuits,narrower
+852,302,Rail to rail operation,Circuits,narrower
+853,303,Logic arrays,Circuits,narrower
+854,304,Very large scale integration,Circuits,narrower
+855,305,UHF integrated circuits,Circuits,narrower
+856,306,Bipolar transistor circuits,Circuits,narrower
+857,307,Nonlinear circuits,Circuits,narrower
+858,308,Isolators,Circuits,narrower
+859,309,Thick film circuits,Circuits,narrower
+860,310,Trigger circuits,Circuits,narrower
+861,311,Circuit faults,Circuits,narrower
+862,312,Quantum circuit,Circuits,narrower
+863,313,Feedback,Circuits,narrower
+864,314,Digital signal processors,Circuits,narrower
+865,315,Submillimeter wave circuits,Circuits,narrower
+866,316,Microwave circuits,Circuits,narrower
+867,317,Sequential circuits,Circuits,narrower
+868,318,Programmable logic arrays,Circuits,narrower
+869,319,Driver circuits,Circuits,narrower
+870,320,Thyristor circuits,Circuits,narrower
+871,321,Pulse circuits,Circuits,narrower
+872,322,Nuclear measurements,Measurement,narrower
+873,323,UHF measurements,Measurement,narrower
+874,324,Size measurement,Measurement,narrower
+875,325,Thermal variables measurement,Measurement,narrower
+876,326,Interferometry,Measurement,narrower
+877,327,Spectral efficiency,Measurement,narrower
+878,328,Measurement uncertainty,Measurement,narrower
+879,329,Soil measurements,Measurement,narrower
+880,330,Acoustic measurements,Measurement,narrower
+881,331,Lumen,Measurement,narrower
+882,332,Fluid flow measurement,Measurement,narrower
+883,333,Length measurement,Measurement,narrower
+884,334,Biomedical measurement,Measurement,narrower
+885,335,Measurement units,Measurement,narrower
+886,336,Reflectometry,Measurement,narrower
+887,337,Sensitivity,Measurement,narrower
+888,338,Semiconductor device measurement,Measurement,narrower
+889,339,Electric variables measurement,Measurement,narrower
+890,340,Noise measurement,Measurement,narrower
+891,341,Measurement techniques,Measurement,narrower
+892,342,Measurement errors,Measurement,narrower
+893,343,Atmospheric measurements,Measurement,narrower
+894,344,Phase measurement,Measurement,narrower
+895,345,Distance measurement,Measurement,narrower
+896,346,pH measurement,Measurement,narrower
+897,347,Frequency measurement,Measurement,narrower
+898,348,Density measurement,Measurement,narrower
+899,349,Shape measurement,Measurement,narrower
+900,350,Gain measurement,Measurement,narrower
+901,351,Pressure measurement,Measurement,narrower
+902,352,Particle beam measurements,Measurement,narrower
+903,353,Area measurement,Measurement,narrower
+904,354,Time measurement,Measurement,narrower
+905,355,Scintillation counters,Measurement,narrower
+906,356,Pollution measurement,Measurement,narrower
+907,357,Algorithms,Mathematics,narrower
+908,358,Transforms,Mathematics,narrower
+909,359,Method of moments,Mathematics,narrower
+910,360,Conformal mapping,Mathematics,narrower
+911,361,Numerical analysis,Mathematics,narrower
+912,362,Euclidean distance,Mathematics,narrower
+913,363,Estimation,Mathematics,narrower
+914,364,Predator prey systems,Mathematics,narrower
+915,365,Calculus,Mathematics,narrower
+916,366,Piecewise linear techniques,Mathematics,narrower
+917,367,Azimuth,Mathematics,narrower
+918,368,Topology,Mathematics,narrower
+919,369,Accuracy,Mathematics,narrower
+920,370,Mode matching methods,Mathematics,narrower
+921,371,Linear matrix inequalities,Mathematics,narrower
+922,372,Kernel,Mathematics,narrower
+923,373,Nonlinear equations,Mathematics,narrower
+924,374,Set theory,Mathematics,narrower
+925,375,Linearization techniques,Mathematics,narrower
+926,376,Linear systems,Mathematics,narrower
+927,377,Laplace equations,Mathematics,narrower
+928,378,Arithmetic,Mathematics,narrower
+929,379,Geometry,Mathematics,narrower
+930,380,Finite difference methods,Mathematics,narrower
+931,381,Finite element analysis,Mathematics,narrower
+932,382,Convex functions,Mathematics,narrower
+933,383,Limit-cycles,Mathematics,narrower
+934,384,Algebra,Mathematics,narrower
+935,385,Spirals,Mathematics,narrower
+936,386,Chemical reaction network theory,Mathematics,narrower
+937,387,Mathematical programming,Mathematics,narrower
+938,388,Smoothing methods,Mathematics,narrower
+939,389,Utility theory,Mathematics,narrower
+940,390,Technetium,Chemical elements,narrower
+941,391,Hafnium,Chemical elements,narrower
+942,392,Rubidium,Chemical elements,narrower
+943,393,Carbon,Chemical elements,narrower
+944,394,Praseodymium,Chemical elements,narrower
+945,395,Radon,Chemical elements,narrower
+946,396,Helium,Chemical elements,narrower
+947,397,Polonium,Chemical elements,narrower
+948,398,Holmium,Chemical elements,narrower
+949,399,Sulfur,Chemical elements,narrower
+950,400,Hydrogen,Chemical elements,narrower
+951,401,Europium,Chemical elements,narrower
+952,402,Krypton,Chemical elements,narrower
+953,403,Tantalum,Chemical elements,narrower
+954,404,Neptunium,Chemical elements,narrower
+955,405,Radium,Chemical elements,narrower
+956,406,Beryllium,Chemical elements,narrower
+957,407,Dysprosium,Chemical elements,narrower
+958,408,Californium,Chemical elements,narrower
+959,409,Ruthenium,Chemical elements,narrower
+960,410,Thallium,Chemical elements,narrower
+961,411,Sodium,Chemical elements,narrower
+962,412,Bromine,Chemical elements,narrower
+963,413,Boron,Chemical elements,narrower
+964,414,Roentgenium,Chemical elements,narrower
+965,415,Americium,Chemical elements,narrower
+966,416,Selenium,Chemical elements,narrower
+967,417,Vanadium,Chemical elements,narrower
+968,418,Thorium,Chemical elements,narrower
+969,419,Neon,Chemical elements,narrower
+970,420,Biological materials,Materials,narrower
+971,421,Additives,Materials,narrower
+972,422,Ceramics,Materials,narrower
+973,423,Superconducting materials,Materials,narrower
+974,424,Waste materials,Materials,narrower
+975,425,Acoustic materials,Materials,narrower
+976,426,Semiconductor materials,Materials,narrower
+977,427,Petrochemicals,Materials,narrower
+978,428,Dielectric materials,Materials,narrower
+979,429,Resists,Materials,narrower
+980,430,Plastics,Materials,narrower
+981,431,Crystalline materials,Materials,narrower
+982,432,Terahertz materials,Materials,narrower
+983,433,Textiles,Materials,narrower
+984,434,Amorphous materials,Materials,narrower
+985,435,Sheet materials,Materials,narrower
+986,436,Aggregates,Materials,narrower
+987,437,Bio-inspired materials,Materials,narrower
+988,438,Composite materials,Materials,narrower
+989,439,Production materials,Materials,narrower
+990,440,Metamaterials,Materials,narrower
+991,441,Material properties,Materials,narrower
+992,442,Paints,Materials,narrower
+993,443,Raw materials,Materials,narrower
+994,444,Organic inorganic hybrid materials,Materials,narrower
+995,445,Polymer gels,Materials,narrower
+996,446,Hazardous materials,Materials,narrower
+997,447,Wire,Materials,narrower
+998,448,Mesoporous materials,Materials,narrower
+999,449,Nanostructured materials,Materials,narrower
+1000,450,Metallic materials,Materials,narrower
+1001,451,Bidirectional control,Control systems,narrower
+1002,452,Brakes,Control systems,narrower
+1003,453,Autopilot,Control systems,narrower
+1004,454,Control equipment,Control systems,narrower
+1005,455,Magnetic variables control,Control systems,narrower
+1006,456,Automatic control,Control systems,narrower
+1007,457,Automotive control,Control systems,narrower
+1008,458,Control system synthesis,Control systems,narrower
+1009,459,CAMAC,Control systems,narrower
+1010,460,Cruise control,Control systems,narrower
+1011,461,Positive train control,Control systems,narrower
+1012,462,Centralized control,Control systems,narrower
+1013,463,Optical control,Control systems,narrower
+1014,464,Networked control systems,Control systems,narrower
+1015,465,Supervisory control,Control systems,narrower
+1016,466,Pressure control,Control systems,narrower
+1017,467,Traffic control,Control systems,narrower
+1018,468,Feedback linearization,Control systems,narrower
+1019,469,Block signalling,Control systems,narrower
+1020,470,Automatic generation control,Control systems,narrower
+1021,471,Optimal control,Control systems,narrower
+1022,472,Sliding mode control,Control systems,narrower
+1023,473,Business process re-engineering,Management,narrower
+1024,474,Quality management,Management,narrower
+1025,475,Marketing management,Management,narrower
+1026,476,Decision making,Management,narrower
+1027,477,Safety management,Management,narrower
+1028,478,Public relations,Management,narrower
+1029,479,Organizational aspects,Management,narrower
+1030,480,Human resource management,Management,narrower
+1031,481,Risk analysis,Management,narrower
+1032,482,Facilities management,Management,narrower
+1033,483,Research and development management,Management,narrower
+1034,484,Information management,Management,narrower
+1035,485,Resource management,Management,narrower
+1036,486,Contingency management,Management,narrower
+1037,487,Knowledge management,Management,narrower
+1038,488,Outsourcing,Management,narrower
+1039,489,Best practices,Management,narrower
+1040,490,Distributed management,Management,narrower
+1041,491,Business process management,Management,narrower
+1042,492,Storage management,Management,narrower
+1043,493,Contract management,Management,narrower
+1044,494,Signal design,Signal processing,narrower
+1045,495,Signal reconstruction,Signal processing,narrower
+1046,496,Frequency locked loops,Signal processing,narrower
+1047,497,Local field potentials,Signal processing,narrower
+1048,498,Error correction,Signal processing,narrower
+1049,499,Signal generators,Signal processing,narrower
+1050,500,Distortion,Signal processing,narrower
+1601,501,Autonomous automobiles,Driver-free car,same-as
+1602,502,Autonomous automobiles,Driver free automobiles,same-as
+1603,503,Autonomous automobiles,Driverless automobiles,same-as
+1604,504,Autonomous automobiles,Self-driving automobiles,same-as
+1605,505,Autonomous automobiles,Self-driving car,same-as
+1606,506,Autonomous automobiles,Driver free cars,same-as
+1607,507,Autonomous automobiles,Driverless cars,same-as
+1608,508,Autonomous automobiles,Autonomous cars,same-as
+1609,509,Digital-analog conversion,Digital-analogue conversion,same-as
+1610,510,Digital-analog conversion,D/A conversion,same-as
+1611,511,Digital-analog conversion,Digital to analog conversion,same-as
+1612,512,License plate recognition,License plate detection,same-as
+1613,513,License plate recognition,Automatic number plate recognition,same-as
+1614,514,License plate recognition,Vehicle license plate recognition,same-as
+1615,515,License plate recognition,Number plate recognition,same-as
+1616,516,License plate recognition,Automatic-number plate recognition,same-as
+1617,517,License plate recognition,Vehicle plate detection,same-as
+1618,518,License plate recognition,Car plate recognition,same-as
+1619,519,Analog-digital conversion,Analogue-digital conversion,same-as
+1620,520,Analog-digital conversion,Analog-to-digital conversion,same-as
+1621,521,Analog-digital conversion,Analog to digital conversion,same-as
+1622,522,Analog-digital conversion,A/D conversion,same-as
+1623,523,Autonomous aerial vehicles,Aerial robots,same-as
+1624,524,Autonomous aerial vehicles,Unpiloted air vehicles,same-as
+1625,525,Online banking,Internet banking,same-as
+1626,526,Online banking,E-banking,same-as
+1627,527,Biological weapons,Bioweapons,same-as
+1628,528,Biological weapons,Bio-weapons,same-as
+1629,529,Finite element analysis,Finite-element analysis,same-as
+1630,530,Machine assisted indexing,Machine-aided indexing,same-as
+1631,531,Machine assisted indexing,Machine-assisted indexing,same-as
+1632,532,Machine assisted indexing,Machine aided indexing,same-as
+1633,533,Pediatrics,Paediatrics,same-as
+1634,534,Peer-to-peer computing,Peer to peer computing,same-as
+1635,535,Three-dimensional displays,Three dimensional displays,same-as
+1636,536,Three-dimensional displays,3D displays,same-as
+1637,537,Three-dimensional displays,3-D displays,same-as
+1638,538,Brain-computer interfaces,Brain-computer-interfaces,same-as
+1639,539,Brain-computer interfaces,Brain machine interfaces,same-as
+1640,540,Brain-computer interfaces,Brain computer interfaces,same-as
+1641,541,Brain-computer interfaces,Brain-machine interfaces,same-as
+1642,542,Computer crime,Cyber-crime,same-as
+1643,543,Fingerprint recognition,Fingerprint identification,same-as
+1644,544,Fingerprint recognition,Fingerprint verification,same-as
+1645,545,HDTV,High-definition TV,same-as
+1646,546,HDTV,High definition television,same-as
+1647,547,MIMO communication,Multiple-input multiple- output,same-as
+1648,548,MIMO communication,Multiple input multiple output,same-as
+1649,549,Nuclear weapons,Atomic weapons,same-as
+1650,550,Real-time systems,Real time systems,same-as
+1651,551,UHDTV,Ultra HD,same-as
+1652,552,UHDTV,Ultra-high definition TV,same-as
+1653,553,UHDTV,Ultra-high definition television,same-as
+1654,554,Bayes methods,Bayesian methods,same-as
+1655,555,CNTFETs,Carbon nanotube field- effect transistors,same-as
+1656,556,CNTFETs,Carbon nanotube FETs,same-as
+1657,557,CNTFETs,Carbon-nanotube field effect transistors,same-as
+1658,558,CNTFETs,Carbon-nanotube field- effect transistors,same-as
+1659,559,CNTFETs,Carbon-nanotube FETs,same-as
+1660,560,CNTFETs,Carbon nanotube field effect transistors,same-as
+1661,561,Electronic publishing,E-publishing,same-as
+1662,562,Human computer interaction,HCI,same-as
+1663,563,Human computer interaction,Human-computer interaction,same-as
+1664,564,Organizational aspects,Organisational aspects,same-as
+1665,565,Photonic crystal fibers,Photonic-crystal fibers,same-as
+1666,566,Photonic crystal fibers,Photonic crystal fibres,same-as
+1667,567,Photonic crystal fibers,Photon crystal fibres,same-as
+1668,568,Photonic crystal fibers,Photonic-crystal fibres,same-as
+1669,569,Photonic crystal fibers,Photon crystal fibers,same-as
+1670,570,Remote working,Distance work,same-as
+1671,571,Ultra wideband technology,Ultrawideband technology,same-as
+1672,572,Ultra wideband technology,Ultrawideband,same-as
+1673,573,Ultra wideband technology,UWB technology,same-as
+1674,574,Ultra wideband technology,Ultra-wide-band,same-as
+1675,575,Ultra wideband technology,Ultra wideband,same-as
+1676,576,Ultra wideband technology,Ultra wide-band,same-as
+1677,577,Unsolicited e-mail,Unsolicited electronic email,same-as
+1678,578,Unsolicited e-mail,Unsolicited electronic e- mail,same-as
+1679,579,Unsolicited e-mail,Unsolicited email,same-as
+1680,580,Unsolicited e-mail,Junk email,same-as
+1681,581,3G mobile communication,3rd generation mobile communication,same-as
+1682,582,3G mobile communication,Third generation mobile communication,same-as
+1683,583,3G mobile communication,3G,same-as
+1684,584,Climate change,Climatic change,same-as
+1685,585,Commonsense reasoning,common sense reasoning,same-as
+1686,586,Commonsense reasoning,common-sense reasoning,same-as
+1687,587,Computed tomography,Computerised axial tomography,same-as
+1688,588,Computed tomography,Computerized axial tomography,same-as
+1689,589,Computed tomography,CT scan,same-as
+1690,590,Computed tomography,Computerized tomography,same-as
+1691,591,Computed tomography,Computerised tomography,same-as
+1692,592,Extrasolar planets,Exo planets,same-as
+1693,593,Extrasolar planets,Extra-solar planets,same-as
+1694,594,Extrasolar planets,Extra solar planets,same-as
+1695,595,Extrasolar planets,Exo-planets,same-as
+1696,596,Extrasolar planets,Exoplanets,same-as
+1697,597,Federated learning,Federated-learning,same-as
+1698,598,Maximum a posteriori estimation,Maximum a posteriori estimator,same-as
+1699,599,Maximum a posteriori estimation,Maximum aposteriori,same-as
+1700,600,Maximum a posteriori estimation,Maximum a posteriori method,same-as
+1701,601,Maximum a posteriori estimation,Maximum a posteriori probability,same-as
+1702,602,Maximum a posteriori estimation,Maximum a-posteriori,same-as
+1703,603,Newton method,Newton-Raphson method,same-as
+1704,604,Newton method,Newton's method,same-as
+1705,605,Newton method,Newton Raphson method,same-as
+1706,606,Newton method,Newtons method,same-as
+1707,607,Nonhomogeneous media,Inhomogeneous media,same-as
+1708,608,PD control,Proportional + derivative control,same-as
+1709,609,PD control,Proportional-derivative control,same-as
+1710,610,PD control,Proportional plus derivative control,same-as
+1711,611,PD control,Proportional derivative control,same-as
+1712,612,PI control,Proportional-integral control,same-as
+1713,613,PI control,Proportional + integral control,same-as
+1714,614,PI control,Proportional-integral controller,same-as
+1715,615,Pulse width modulation converters,PWM converters,same-as
+1716,616,Pulse width modulation converters,Pulse width modulation convertors,same-as
+1717,617,Pulse width modulation converters,Pulse width modulated power converters,same-as
+1718,618,Pulse width modulation converters,Pulsewidth modulation converters,same-as
+1719,619,Pulse width modulation converters,PWM convertors,same-as
+1720,620,Pulse width modulation converters,Pulsewidth modulation convertors,same-as
+1721,621,Self-organizing feature maps,SOM,same-as
+1722,622,Self-organizing feature maps,Self organizing maps,same-as
+1723,623,Self-organizing feature maps,Self organising feature maps,same-as
+1724,624,Self-organizing feature maps,Self-organizing maps,same-as
+1725,625,Self-organizing feature maps,Self organizing feature maps,same-as
+1726,626,Self-organizing feature maps,Kohonen maps,same-as
+1727,627,Aspherical optics,Aspheric optics,same-as
+1728,628,Autonomous underwater vehicles,Underwater autonomous vehicles,same-as
+1729,629,Autonomous underwater vehicles,Underwater drones,same-as
+1730,630,Blockchains,Block chain,same-as
+1731,631,Charge carrier processes,Carrier processes,same-as
+1732,632,Computer aided instruction,Computer-aided instruction,same-as
+1733,633,Computer aided instruction,Computer aided learning,same-as
+1734,634,Computer aided instruction,Computer-aided learning,same-as
+1735,635,Cyberbullying,Online bullying,same-as
+1736,636,Cyberbullying,Cyber harrassment,same-as
+1737,637,Cyberbullying,Internet bullying,same-as
+1738,638,Cyberbullying,Cyberharrassment,same-as
+1739,639,Cyberbullying,Cyber bullying,same-as
+1740,640,Direction-of-arrival estimation,Estimation of the direction of arrival,same-as
+1741,641,Direction-of-arrival estimation,Direction of arrival estimation,same-as
+1742,642,Direction-of-arrival estimation,DOA estimation,same-as
+1743,643,Electronic learning,E learning,same-as
+1744,644,Electronic learning,E-learning,same-as
+1745,645,Electronic learning,Elearning,same-as
+1746,646,EPROM,Erasable programmable read only memory,same-as
+1747,647,Error correction codes,Error-correction codes,same-as
+1748,648,Error correction codes,Errorcorrection codes,same-as
+1749,649,Error correction codes,Error correcting codes,same-as
+1750,650,Finite difference methods,Finite-difference methods,same-as
+1751,651,Hard disks,Hard discs,same-as
+1752,652,Hard disks,Hard-disc drives,same-as
+1753,653,HEMTs,High electron-mobility transistors,same-as
+1754,654,HEMTs,High-electron-mobility transistors,same-as
+1755,655,HEMTs,High electron mobility transistors,same-as
+1756,656,HEMTs,High-electron mobility transistors,same-as
+1757,657,High-temperature superconductors,High-Tc superconductors,same-as
+1758,658,High-temperature superconductors,HTS,same-as
+1759,659,High-temperature superconductors,High Tc superconductors,same-as
+1760,660,High-temperature superconductors,High temperature superconductors,same-as
+1761,661,Inverse problems,Inverse problem,same-as
+1762,662,Low-carbon economy,Low fossile fuel economy,same-as
+1763,663,Methanol,Wood alcohol,same-as
+1764,664,Methanol,Methyl alcohol,same-as
+1765,665,Methanol,Wood spirits,same-as
+1766,666,Microcomputers,Micro-computers,same-as
+1767,667,Microcomputers,Micro computers,same-as
+1768,668,Multicore processing,Multi-core processing,same-as
+1769,669,Nearest neighbor methods,Nearest neighbour methods,same-as
+1770,670,Noise reduction,De-noising,same-as
+1771,671,Noise reduction,Noise suppression,same-as
+1772,672,Noise reduction,Denoising,same-as
+1773,673,Noninvasive treatment,Noninvasive therapy,same-as
+1774,674,Organic inorganic hybrid materials,Inorganic-organic hybrid materials,same-as
+1775,675,Organic inorganic hybrid materials,Organic-inorganic hybrid materials,same-as
+1776,676,Organic inorganic hybrid materials,Inorganic organic hybrid materials,same-as
+1777,677,Pareto optimization,Pareto optimisation,same-as
+1778,678,Remotely guided vehicles,Remotely operated vehicles,same-as
+1779,679,Remotely guided vehicles,Remotely controlled vehicles,same-as
+1780,680,Risk management,Risk mitigation,same-as
+1781,681,Risk management,Risk handling,same-as
+1782,682,Silicon-on-insulator,Silicon on insulator,same-as
+1783,683,Spaceborne radar,Space based radar,same-as
+1784,684,Spaceborne radar,Space born radar,same-as
+1785,685,Spaceborne radar,Spaceborn radar,same-as
+1786,686,Spaceborne radar,Satellite borne radar,same-as
+1787,687,Spaceborne radar,Satellite born radar,same-as
+1788,688,Spectral analysis,Spectrum analysis,same-as
+1789,689,Thyristors,Silicon controlled rectifiers,same-as
+1790,690,Underwater cables,Submarine cables,same-as
+1791,691,Underwater cables,Sub-sea cables,same-as
+1792,692,5G mobile communication,5th generation mobile systems,same-as
+1793,693,5G mobile communication,5th generation systems,same-as
+1794,694,5G mobile communication,5G,same-as
+1795,695,5G mobile communication,5th generation wireless systems,same-as
+1796,696,AC-DC power converters,AC-DC power convertors,same-as
+1797,697,AC-DC power converters,AC/DC power converters,same-as
+1798,698,Analog-digital integrated circuits,Analogue-digital integrated circuits,same-as
+1799,699,Analog-digital integrated circuits,Analogue digital integrated circuits,same-as
+1800,700,Analog-digital integrated circuits,Analog digital integrated circuits,same-as
+1801,701,Bio-inspired computing,Biologically inspired computing,same-as
+1802,702,Bio-inspired computing,Biocomputing,same-as
+1803,703,Bio-inspired computing,Bio-computing,same-as
+1804,704,Bio-inspired computing,Bioinspired computing,same-as
+1805,705,Client-server systems,Client server systems,same-as
+1806,706,Client-server systems,Clientserver systems,same-as
+1807,707,Communication system signaling,Telecom signaling,same-as
+1808,708,Cramer-Rao bounds,Cramer Rao bound,same-as
+1809,709,Cramer-Rao bounds,Cramer Rao bounds,same-as
+1810,710,D-HEMTs,Depletion mode HEMTs,same-as
+1811,711,D-HEMTs,Depletion-mode HEMTs,same-as
+1812,712,D-HEMTs,Depletion mode HEMTs,same-as
+1813,713,D-HEMTs,Depletion-mode HEMTs,same-as
+1814,714,Decentralized control,Distributed control,same-as
+1815,715,Decentralized control,Decentralised control,same-as
+1816,716,Distributed ledger,Shared ledger,same-as
+1817,717,Distributed power generation,Dispersed power generation,same-as
+1818,718,Distributed power generation,Distributed generation,same-as
+1819,719,Electricity supply industry deregulation,Electricity supply industry liberalization,same-as
+1820,720,Electricity supply industry deregulation,Electricity supply industry liberalisation,same-as
+1821,721,Electro-absorption modulators,Electroabsorption modulators,same-as
+1822,722,Electro-absorption modulators,Electroabsorptive modulators,same-as
+1823,723,Electro-optic modulators,Electrooptical modulators,same-as
+1824,724,Electro-optic modulators,Electro-optical modulators,same-as
+1825,725,Electro-optic modulators,Electrooptic modulators,same-as
+1826,726,Electronic commerce,Ecommerce,same-as
+1827,727,Electronic commerce,E-commerce,same-as
+1828,728,Electronic healthcare,E health,same-as
+1829,729,Electronic healthcare,Ehealth,same-as
+1830,730,Global Positioning System,GPS,same-as
+1831,731,Hardware design languages,Hardware description languages,same-as
+1832,732,Home appliances,Household appliances,same-as
+1833,733,Home appliances,Domestic appliances,same-as
+1834,734,Hydroelectric power generation,Hydroelectricity,same-as
+1835,735,Hydroelectric power generation,Hyrdroelectric,same-as
+1836,736,In-memory computing,In memory computing,same-as
+1837,737,Information age,Age of information,same-as
+1838,738,Information-centric networking,Content-centric networking,same-as
+1839,739,Information-centric networking,Information centric networks,same-as
+1840,740,Information-centric networking,Information centric networking,same-as
+1841,741,Interchannel interference,Cochannel interference,same-as
+1842,742,Kirchhoff's Law,Kirchhoff current law,same-as
+1843,743,Kirchhoff's Law,Kirchhoff law,same-as
+1844,744,Kirchhoff's Law,Kirchhoff approximation,same-as
+1845,745,Labor resources,Labour resources,same-as
+1846,746,Light emitting diodes,LEDs,same-as
+1847,747,Light emitting diodes,LED,same-as
+1848,748,Light emitting diodes,Light-emitting diodes,same-as
+1849,749,Magnetic resonance imaging,NMR imaging,same-as
+1850,750,Magnetic resonance imaging,MRI,same-as
+1851,751,Archeology,Electronic switching systems,other
+1852,752,Feedback loop,Flexible electronics,other
+1853,753,Booting,Power system protection,other
+1854,754,Mobile learning,Representation learning,other
+1855,755,Optical modulators,PD control,other
+1856,756,Quantum dots,Standardization,other
+1857,757,Flammability,Smart homes,other
+1858,758,Linear circuits,Microwave sensors,other
+1859,759,Anthropomorphism,Marine technology,other
+1860,760,Cranes,Visual systems,other
+1861,761,Classification tree analysis,Neuromorphic engineering,other
+1862,762,Emissions trading,Metal foam,other
+1863,763,Radar,Wavelet analysis,other
+1864,764,Electrochromic devices,Particle beam injection,other
+1865,765,Quantum networks,Loans and mortgages,other
+1866,766,Fiber reinforced plastics,Power system reliability,other
+1867,767,Mixed integer linear programming,Load monitoring,other
+1868,768,Microwave communication,Plastics industry,other
+1869,769,Surface fitting,Message passing,other
+1870,770,Dictionaries,Prosthetic limbs,other
+1871,771,Space radiation,UHF propagation,other
+1872,772,Induction motors,Memoryless systems,other
+1873,773,Home computing,Physical layer security,other
+1874,774,Ion implantation,Tracking loops,other
+1875,775,Broadcast technology,Turing machines,other
+1876,776,Vehicles,Radiation effects,other
+1877,777,Wine industry,Manipulator dynamics,other
+1878,778,Embryonic structures,Passive radar,other
+1879,779,Visual odometry,Publishing,other
+1880,780,Vehicles,Dielectric measurement,other
+1881,781,Network resource management,Skin neoplasms,other
+1882,782,Frequency-domain analysis,Wearable robots,other
+1883,783,Tides,Platinum,other
+1884,784,Sonar measurements,Numerical stability,other
+1885,785,Charge measurement,Optical sensors,other
+1886,786,Self-organizing networks,Mutual information,other
+1887,787,Ice surface,Vision defects,other
+1888,788,Control theory,Bonding forces,other
+1889,789,Sonar measurements,Probability distribution,other
+1890,790,Permanent magnets,Carotid arteries,other
+1891,791,Hybrid learning,Boats,other
+1892,792,Wireless personal area networks,Debugging,other
+1893,793,Agricultural robots,Embolization,other
+1894,794,Reflectometry,Gaze tracking,other
+1895,795,Programmable logic arrays,Deuterium,other
+1896,796,Smart cards,Immune system,other
+1897,797,Reverberation,Cosmic rays,other
+1898,798,Morphological operations,Laser fusion,other
+1899,799,Aerospace electronics,Solvents,other
+1900,800,Government policies,Wireless sensor networks,other
+1901,801,Fall detection,Teleworking,other
+1902,802,Radiofrequency safety,Radio communication countermeasures,other
+1903,803,Network resource management,Surface tension,other
+1904,804,Geothermal power generation,Photonic bandgap fibers,other
+1905,805,Electrolytes,Digital printing,other
+1906,806,Radiofrequency safety,Catalysis,other
+1907,807,Spinal cord injury,Vocational training,other
+1908,808,Terahertz radiation,Passwords,other
+1909,809,X-ray telescopes,Loans and mortgages,other
+1910,810,Anxiety disorders,Biomedical monitoring,other
+1911,811,Diversity methods,Microgrids,other
+1912,812,Food industry,Serious games,other
+1913,813,Electrostatic devices,Software defined networking,other
+1914,814,Atomic force microscopy,Wavelet domain,other
+1915,815,Information and communication technology,Thermal resistance,other
+1916,816,Diamagnetic materials,Hydrocarbons,other
+1917,817,Streaming media,Inverters,other
+1918,818,Feedback loop,Hyperspectral sensors,other
+1919,819,Brain injuries,Publishing,other
+1920,820,Radar,Thermal lensing,other
+1921,821,Hybrid learning,Neurology,other
+1922,822,Thermal management,Yttrium,other
+1923,823,Statistical analysis,Whale optimization algorithms,other
+1924,824,Ant colony optimization,Interface phenomena,other
+1925,825,Hyper-intelligent systems,Wireless LAN,other
+1926,826,Nonlinear circuits,Least mean squares methods,other
+1927,827,Machine ethics,White matter,other
+1928,828,Transport protocols,Millimeter wave devices,other
+1929,829,Integrated memory circuits,Light rail systems,other
+1930,830,Propellers,Anxiety disorders,other
+1931,831,Set theory,Bone diseases,other
+1932,832,Space radiation,Fuel processing industries,other
+1933,833,Reverberation chambers,Electronic packaging thermal management,other
+1934,834,Propellers,Data systems,other
+1935,835,Polarization shift keying,Fluid dynamics,other
+1936,836,Readout electronics,Equal opportunities,other
+1937,837,Machine tools,Pulsed electroacoustic methods,other
+1938,838,Quantum dots,Plastic packaging,other
+1939,839,Quantum dots,Electromagnetic heating,other
+1940,840,Fast Fourier transforms,Small business technology transfer,other
+1941,841,Prosthetics,Discharge lamps,other
+1942,842,Diffraction gratings,Underground power cables,other
+1943,843,Wind energy,Thermoplastic polyethylene,other
+1944,844,Electronic voting systems,Power system planning,other
+1945,845,Electronic commerce,Radar interferometry,other
+1946,846,Protective clothing,Semiconductor device breakdown,other
+1947,847,Motors,Furnaces,other
+1948,848,Intracranial pressure sensors,Superconducting magnetic energy storage,other
+1949,849,Deductive databases,Computational fluid dynamics,other
+1950,850,Thyratrons,Stability criteria,other
+1951,851,Government policies,Biopsy,other
+1952,852,Manipulators,Uncertainty,other
+1953,853,Electrochromic devices,Green design,other
+1954,854,Electronic commerce,Collimators,other
+1955,855,Railway electrification,Optical fiber cables,other
+1956,856,Radiation protection,Approximation methods,other
+1957,857,Magnetic fields,Comets,other
+1958,858,Digital recording,Injection-locked oscillators,other
+1959,859,Job design,Probes,other
+1960,860,Electronic commerce,Coronaviruses,other
+1961,861,Marine technology,Thin film circuits,other
+1962,862,Histopathology,Temperature distribution,other
+1963,863,Communication equipment,Stochastic processes,other
+1964,864,Booting,Multicast VPN,other
+1965,865,Floods,Radiofrequency integrated circuits,other
+1966,866,Continuous wavelet transforms,Optical solitons,other
+1967,867,Ambient networks,Ergonomics,other
+1968,868,Uniaxial strain,Millennials,other
+1969,869,Transversal filters,Software prototyping,other
+1970,870,Archeology,Biofuels,other
+1971,871,Systems modeling,Radar detection,other
+1972,872,Orthopedic procedures,Phonocardiography,other
+1973,873,Polarization shift keying,Impersonation attacks,other
+1974,874,Glass,Information geometry,other
+1975,875,Venus,Doped fiber amplifiers,other
+1976,876,Earth,Data structures,other
+1977,877,Agricultural robots,Computer mediated communication,other
+1978,878,Acoustic reflection,Head,other
+1979,879,Share prices,Formal concept analysis,other
+1980,880,Quantum cascade lasers,Digital elevation models,other
+1981,881,Diffraction gratings,Sugar industry,other
+1982,882,Physical unclonable function,Helicopters,other
+1983,883,Azimuth,Winches,other
+1984,884,Iterative decoding,Germanium alloys,other
+1985,885,Continuous wavelet transforms,Histopathology,other
+1986,886,Electronic voting systems,Ocean temperature,other
+1987,887,Authentication,Estimation theory,other
+1988,888,Radio access technologies,Impurities,other
+1989,889,Venus,Circuit synthesis,other
+1990,890,Image capture,Road accidents,other
+1991,891,Feature extraction,Machining,other
+1992,892,Postal services,Scientific computing,other
+1993,893,Digital recording,OWL,other
+1994,894,Morphological operations,Organizations,other
+1995,895,Automotive engineering,Computational cultural modeling,other
+1996,896,Man-machine systems,Level control,other
+1997,897,Magnetic tunneling,Parietal lobe,other
+1998,898,Low-carbon economy,Steel,other
+1999,899,Deductive databases,Mechanical power transmission,other
+2000,900,Infrared sensors,Licenses,other
+2001,901,Broadcasting,Superconducting films,other
+2002,902,Impersonation attacks,International trade,other
+2003,903,Electrolytes,Consensus protocol,other
+2004,904,Eigenvalues and eigenfunctions,Coherence,other
+2005,905,Metaheuristics,Topological insulators,other
+2006,906,Dielectric resonator antennas,Computer crime,other
+2007,907,Brain injuries,Transfer molding,other
+2008,908,mHEMTs,Photoreceptors,other
+2009,909,Metaheuristics,Renewable energy sources,other
+2010,910,Doped fiber amplifiers,Tagging,other
+2011,911,Spinal cord injury,Excavation,other
+2012,912,Wine industry,Liquid nitrogen,other
+2013,913,Bulk acoustic wave devices,Magnesium,other
+2014,914,Aerospace electronics,Switched capacitor circuits,other
+2015,915,Vivaldi antennas,Encyclopedias,other
+2016,916,Corrugated surfaces,Career development,other
+2017,917,Energy harvesting,Underwater technology,other
+2018,918,Classification tree analysis,Thermal management of electronics,other
+2019,919,Integrated memory circuits,Neurostimulation,other
+2020,920,Atomic force microscopy,Switched circuits,other
+2021,921,Floods,Cyclic redundancy check,other
+2022,922,Process design,Weibull distribution,other
+2023,923,Three-dimensional displays,Volume measurement,other
+2024,924,FET integrated circuits,Rheology,other
+2025,925,Smart materials,Multiskilling,other
+2026,926,X-ray telescopes,Electricity supply industry deregulation,other
+2027,927,Digital recording,Rapid prototyping,other
+2028,928,Postal services,Esophagus,other
+2029,929,FET integrated circuits,Multiple access interference,other
+2030,930,Transmission line measurements,Neuroradiology,other
+2031,931,Radio access networks,Alcoholic beverages,other
+2032,932,Hypertension,Radiation effects,other
+2033,933,Plating,Hydraulic systems,other
+2034,934,UHF propagation,Waste reduction,other
+2035,935,Food industry,Timing,other
+2036,936,Military computing,Trees - insulation,other
+2037,937,Software algorithms,Cyclones,other
+2038,938,Charge measurement,Proteins,other
+2039,939,Analog-digital conversion,Power steering,other
+2040,940,Control theory,Military communication,other
+2041,941,Atomic clocks,Foot,other
+2042,942,Diamagnetic materials,MERIS,other
+2043,943,Glass,Constraint handling,other
+2044,944,Thin films,Nonconductive adhesives,other
+2045,945,Electromechanical devices,Wavelet coefficients,other
+2046,946,Anxiety disorders,Cable TV,other
+2047,947,Spreadsheet programs,Construction industry,other
+2048,948,Coplanar transmission lines,Edge computing,other
+2049,949,Inference algorithms,Finishing,other
+2050,950,Switching loss,Fans,other
+2051,951,Software reliability,Frequency shift keying,other
+2052,952,Particle accelerators,Mobile applications,other
+2053,953,Electrochromic devices,Dynamic voltage scaling,other
+2054,954,Convergence,Optical refraction,other
+2055,955,New Radio,Pressure vessels,other
+2056,956,Paper mills,Chebyshev approximation,other
+2057,957,Active RFID tags,Systems engineering education,other
+2058,958,Photothyristors,Web pages,other
+2059,959,Frequency shift keying,Cryogenic electronics,other
+2060,960,Embryonic structures,Lightweight structures,other
+2061,961,Ion implantation,Sociotechnical systems,other
+2062,962,Electroencephalography,Optical pumping,other
+2063,963,Digital divide,Pressure sensors,other
+2064,964,Mobile learning,Microfiltration,other
+2065,965,Electromechanical devices,Structural shells,other
+2066,966,Shingled magnetic recording,Electric potential,other
+2067,967,Dielectric thin films,Paramagnetic resonance,other
+2068,968,Spectroradiometers,Light fields,other
+2069,969,Spinal cord injury,Distributed parameter systems,other
+2070,970,Pancreas,Volume relaxation,other
+2071,971,Bulk acoustic wave devices,Scintillation counters,other
+2072,972,Thermal management,Erbium-doped fiber lasers,other
+2073,973,Requirements engineering,Xnot_relatedD,other
+2074,974,Classification tree analysis,Structural plates,other
+2075,975,Fiber reinforced plastics,Field programmable analog arrays,other
+2076,976,Tides,Data breach,other
+2077,977,Sonar measurements,Ozonation,other
+2078,978,Loaded waveguides,Cinematography,other
+2079,979,Cepstral analysis,Spark Plasma sintering,other
+2080,980,Business intelligence,Scanning probe data storage,other
+2081,981,Ball milling,Bromine compounds,other
+2082,982,VHDL,Inductance measurement,other
+2083,983,Classification algorithms,Test equipment,other
+2084,984,Wind tunnels,Software development management,other
+2085,985,Acoustic arrays,Whole body imaging,other
+2086,986,Nonlinear circuits,Moisture control,other
+2087,987,Discrete wavelet transforms,Preforms,other
+2088,988,Thyratrons,Glow discharges,other
+2089,989,Turnkey project,Samarium compounds,other
+2090,990,Diffusion bonding,Thin films,other
+2091,991,Flanges,Laser materials processing,other
+2092,992,Ambient networks,Vehicular ad hoc networks,other
+2093,993,Object recognition,Biofuels,other
+2094,994,Coal industry,Data communication,other
+2095,995,Streaming media,Zero correlation zone,other
+2096,996,Irrigation,Landslides,other
+2097,997,Process design,Retinal vessels,other
+2098,998,Thin films,Edge computing,other
+2099,999,Railway electrification,Ring oscillators,other
+2100,1000,Coal industry,Multiprocessing systems,other
