@@ -62,7 +62,7 @@ The experiments are conducted using two strategies:
   
 #### Prompt Template
 
-A standardized prompt template is used across both strategies and all models.
+A standardised prompt template is used across both strategies and all models.
 
 #### Empirical Rules for Two-way Strategy Agreement
 
