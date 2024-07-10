@@ -12,10 +12,10 @@ lorem ipsum
 
 **Figure 1**: Architecture of our two strategies. The first strategy (red dashed box) determines the relationship between 𝑡<sub>𝑎</sub> and 𝑡<sub>b</sub> in one way, whereas the second strategy (green dashed box) determines the relationship between pairs of topics in both ways.
 
-# Folders
+# 📂 Folders
 Below is the distribution and organisation of the folders in this repository.
 
-## dataset
+## 📄 dataset
 This folder contains the Gold Standard. Accessible [here](./dataset)
 
 To create our gold standard dataset from the [IEEE Thesaurus](https://github.com/angelosalatino/ieee-taxonomy-thesaurus-rdf/blob/main/source/ieee-thesaurus_2023.pdf), we followed these steps:
@@ -35,7 +35,7 @@ We randomly selected ``250`` relationships for each category: ``broader``, ``nar
 
 This method ensured that our gold standard dataset of 1K semantic relationships was diverse and representative of the various types of relationships defined in the IEEE Thesaurus.
 
-## code
+## 🖥 code
 
 This folder contains the script that we used to identify the semantic relationships between pairs of research topics. 
 
