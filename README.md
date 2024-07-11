@@ -1,4 +1,4 @@
-# Identifying Semantic Relationships Between Research Topics Using Zero-Shot Reasoning
+# Identifying Semantic Relationships Between Research Topics Using LLMs in a Zero-Shot Learning Setting
 
 In this GitHub repository, you can access the Gold Standard and the code for identifying relationships between research topic pairs in the Gold Standard.
 
