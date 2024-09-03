@@ -6,7 +6,8 @@ In this GitHub repository, you can access the Gold Standard and the code for ide
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # Abstract.
-lorem ipsum
+Knowledge Organization Systems (KOS), such as ontologies, taxonomies, and thesauri, play a crucial role in organising scientific knowledge. They help scientists navigate the vast landscape of research literature and are essential for building intelligent systems such as smart search engines, recommendation systems, conversational agents, and advanced analytics tools. However, the manual creation of these KOSs is costly, time-consuming, and often leads to outdated and overly broad representations. As a result, researchers have been exploring automated or semi-automated methods for generating ontologies of research topics. This paper analyses the use of large language models (LLMs) to identify semantic relationships between research topics.
+We specifically focus on ``six open`` and ``lightweight`` LLMs (up to ``10.7`` billion parameters) and use two ``zero-shot reasoning`` strategies to identify four types of relationships: _broader_, _narrower_, _same-as_, and _other_. Our preliminary analysis indicates that ``Dolphin2.1-OpenOrca-7B`` performs strongly in this task, achieving a ``0.853`` F1-score against a gold standard of ``1,000`` relationships derived from the IEEE Thesaurus. These promising results bring us one step closer to the next generation of tools for automatically curating KOSs, ultimately making the scientific literature easier to explore.
 
 ![iamge](https://github.com/ImTanay/LLM-Semantic-Relationship-Analysis/assets/59340198/4bccbaa8-2c5f-462a-ac02-411411a90602)
 
